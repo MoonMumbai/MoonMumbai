@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**MoonMumbai/MoonMumbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at Manipal University Jaipur
 
-Here are some ideas to get you started:
+🏆 Hackathon Winner: HACKS 10.0 ELICIT’25
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack: C++, Python, SQLite3
+⚙️ Core Skills: Data Structures & Algorithms, Problem Solving, Backend Development
+
+🌐 Backend: Django & Django REST Framework (API Development)
+
+🌱 Currently Exploring: Machine Learning and scalable system design
+
+🚀 Interests: Building real-world applications, clean architecture, and efficient backend systems
+
+📈 Focused on: Writing production-ready code, strengthening fundamentals, and continuous learning
