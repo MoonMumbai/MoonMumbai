@@ -2,9 +2,8 @@
 
 🎓 Student at Manipal University Jaipur
 
-🏆 Hackathon Winner: HACKS 10.0 ELICIT’25
-
-💻 Tech Stack: C++, Python, SQLite3
+🏆 Hackathon Winner: Synergy HPE Hackathon
+💻 Tech Stack: C++, Python, SQLite3 , MySQL
 ⚙️ Core Skills: Data Structures & Algorithms, Problem Solving, Backend Development
 
 🌐 Backend: Django & Django REST Framework (API Development)
